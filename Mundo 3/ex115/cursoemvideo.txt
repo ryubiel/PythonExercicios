@@ -1,0 +1,6 @@
+Gabriel;23
+Kelvin;20
+José;43
+Bruna;25
+Lint;587
+Gustavo;98
